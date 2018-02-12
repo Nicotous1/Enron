@@ -1,4 +1,4 @@
-# Enron
+# The Enron Scandal
 Study of the Enron Scandal via variational EM.
 
 The data used for the analysis is available here :<br>
