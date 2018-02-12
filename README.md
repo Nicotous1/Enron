@@ -1,5 +1,5 @@
 # Enron
-Study of the Enron Scandal network via variational EM
+Study of the Enron Scandal via variational EM.
 
 The data used for the analysis is available here :<br>
 https://drive.google.com/open?id=1yU1QMUQh5KsjGBexhqXlF0QGpmZ2P9Eu<br>
