@@ -1,15 +1,14 @@
 # SVBM on Python
-The SVBM module is compiled for Python 3.6.
-It implements the variational EM of Pierre Latouche. His paper can be found [here](https://drive.google.com/open?id=1TH90r7auLsqnAXUpRYTLH8PKmaFpXvkw).
+The SVBM module is compiled for Python 3.6. It implements the variational EM of Pierre Latouche.<br>
+His paper can be found [here](https://drive.google.com/open?id=1TH90r7auLsqnAXUpRYTLH8PKmaFpXvkw).<br>
+There is a wiki to explain how to use the module.<br>
 
-To use it, you just need to add one file to your directory :
+To use it, you just need to add one file from this [folder](https://github.com/Nicotous1/Enron/blob/master/module/) to your directory :
 * For Linux, Mac OS X : SVBM.cpython-36m-x86_64-linux-gnu.so
 * For Windows : 
 
-This file are in the folder [module](https://github.com/Nicotous1/Enron/blob/master/module/).<br>
 If this files do not work you can try the notebook : "Try with Cython.ipynb"
 
-There is a wiki to explain how the module work.
 
 The module was developped for the study of the Enron Scandal.<br>
 There are two notebook related :
