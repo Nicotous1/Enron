@@ -7,6 +7,8 @@ To import it, you just need to add one file from this [folder](https://github.co
 * For Linux, Mac OS X : [SVBM.cpython-36m-x86_64-linux-gnu.so](https://github.com/Nicotous1/Enron/blob/master/module/SVBM.cpython-36m-x86_64-linux-gnu.so)
 * For Windows : [SVBM.cp36-win_amd64.pyd](https://github.com/Nicotous1/Enron/blob/master/module/SVBM.cp36-win_amd64.pyd)
 
+Then ```from SVBM import *```
+
 If this files do not work you can try the notebook : [Try with Cython.ipynb](https://github.com/Nicotous1/Enron/blob/master/Try%20with%20Cython.ipynb) with "enron_network.npy".
 
 
