@@ -19,3 +19,5 @@ You need to have the database within csv files to execute this one.
 
 * [ScandalPerson.ipynb](https://github.com/Nicotous1/Enron/blob/master/ScandalPerson.ipynb) : Descriptive statistics about the different type of traffic<br>
 You need a folder named "data" at your root filled with [this files](https://drive.google.com/open?id=1O3YPJKMkcAz11q_7xz0X-W_Xt1q_EojT).
+
+* The last notebook, containing the analysis presented in the report, can be accessed [here](https://drive.google.com/open?id=1nc1Y1kL37SJtyRtZMlHj6jmG9B23FqsW). It contains a notebook allowing to compute the adjency matrix and to display the network. All dataset are already in the folder. Make sure to change the path variable to be able to execute the notebook properly.
