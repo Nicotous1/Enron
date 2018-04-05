@@ -13,7 +13,7 @@ If this files do not work you can try the notebook : [Try with Cython.ipynb](htt
 
 
 The module was developped for the study of the Enron Scandal.<br>
-There are two notebook related :
+There are three notebook related :
 * [Data_Cleaning.ipynb](https://github.com/Nicotous1/Enron/blob/master/Data_Cleaning.ipynb) : Clean and reduced size of the original data from [here](http://www.ahschulz.de/enron-email-data/) .<br>
 You need to have the database within csv files to execute this one.
 
