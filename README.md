@@ -4,8 +4,8 @@ His paper can be found [here](https://drive.google.com/open?id=1TH90r7auLsqnAXUp
 There is a wiki to explain how to use the module.<br>
 
 To import it, you just need to add one file from this [folder](https://github.com/Nicotous1/Enron/blob/master/module/) to your directory :
-* For Linux, Mac OS X : SVBM.cpython-36m-x86_64-linux-gnu.so
-* For Windows : 
+* For Linux, Mac OS X : [SVBM.cpython-36m-x86_64-linux-gnu.so](https://github.com/Nicotous1/Enron/blob/master/module/SVBM.cpython-36m-x86_64-linux-gnu.so)
+* For Windows : [SVBM.cp36-win_amd64.pyd](https://github.com/Nicotous1/Enron/blob/master/module/SVBM.cp36-win_amd64.pyd)
 
 If this files do not work you can try the notebook : [Try with Cython.ipynb](https://github.com/Nicotous1/Enron/blob/master/Try%20with%20Cython.ipynb)
 
