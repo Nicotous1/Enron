@@ -1,7 +1,7 @@
 # SVBM on Python
 The SVBM module is compiled for Python 3.6. It implements the variational EM of Pierre Latouche.<br>
 His paper can be found [here](https://drive.google.com/open?id=1TH90r7auLsqnAXUpRYTLH8PKmaFpXvkw).<br>
-There is a wiki to explain how to use the module.<br>
+There is a [wiki](https://github.com/Nicotous1/Enron/wiki) to explain how to use the module.<br>
 
 To import it, you just need to add one file from this [folder](https://github.com/Nicotous1/Enron/blob/master/module/) to your directory :
 * For Linux, Mac OS X : [SVBM.cpython-36m-x86_64-linux-gnu.so](https://github.com/Nicotous1/Enron/blob/master/module/SVBM.cpython-36m-x86_64-linux-gnu.so)
